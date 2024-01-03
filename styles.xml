@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-styles xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" office:version="1.2">
+    <office:styles>
+        <style:default-style style:family="paragraph" style:name="Standard">
+            <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.2in"/>
+            <style:text-properties fo:font-size="12pt"/>
+        </style:default-style>
+    </office:styles>
+</office:document-styles>

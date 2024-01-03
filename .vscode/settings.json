@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "zip.h": "c",
+        "zlib.h": "c"
+    }
+}
